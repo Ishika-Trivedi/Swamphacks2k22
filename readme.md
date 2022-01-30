@@ -302,3 +302,5 @@ person under one device. This software will also allow users to monitor multiple
 subjects at the same time why notifying the user in case the subject’s vitals are not
 in green.
 
+## Figma Link:
+https://www.figma.com/file/MLy0TuVyxvDLx6SglWytlL/Untitled?node-id=0%3A1
