@@ -4,24 +4,24 @@ Today's era of the healthcare system has a very big ILL impact due to poor healt
 This project is designed to greatly increase the efficiency of the hospital staff as a whole. By not having to conduct manual routine checks on the drip levels, drip conditions, Temperature, heartbeat, oxygen rate and Blood pressure of every patient, the workload of the hospital staff is exceedingly diminished. Thus, automation is an essential step towards providing more efficient, effective and convenient healthcare facilities to all.
 
 ## PROBLEM STATEMENT 
-Today's era of healthcare system has a very big ILL impact due to poor health monitoring of patients due to various circumstances.
-📍 Diseases that can be noticed easily , pass unnoticed, which in turn contribute to a bigger health hazard.
-📍 In various conditions it is impossible to have manual check in regular time interval if the patient’s condition is becoming worse in between then it creates a emergency situation.
-📍 Risk assessment for any disease/ medical condition can be estimated and changes in regular lifestyle can be made accordingly.
-📍 Poor health monitoring can cause a case of denial for the disease in case of “sudden” appearance of the disease.
-📍 It can also psychologically effect patient as he might be scared that a disease would pop up if he goes for a checkup.
-📍 Regular health checks can identify any early signs of health issues.
-📍 Prompt you to maintain a healthy lifestyle.
-📍 When you have a check, your doctor will talk to you about your medical history, your family’s history of disease and your lifestyle. Your diet, weight, how much you exercise, and whether or not you smoke and drink alcohol or take illegal drugs will also be discussed.
-📍 If you have high-risk factors, such as a family history of a condition, it may be more likely that you will develop a particular disease. Regular checks may help your doctor pick up early warning signs.
+Today's era of healthcare system has a very big ILL impact due to poor health monitoring of patients due to various circumstances.<br />
+📍 Diseases that can be noticed easily , pass unnoticed, which in turn contribute to a bigger health hazard.<br />
+📍 In various conditions it is impossible to have manual check in regular time interval if the patient’s condition is becoming worse in between then it creates a emergency situation.<br />
+📍 Risk assessment for any disease/ medical condition can be estimated and changes in regular lifestyle can be made accordingly.<br />
+📍 Poor health monitoring can cause a case of denial for the disease in case of “sudden” appearance of the disease.<br />
+📍 It can also psychologically effect patient as he might be scared that a disease would pop up if he goes for a checkup.<br />
+📍 Regular health checks can identify any early signs of health issues.<br />
+📍 Prompt you to maintain a healthy lifestyle.<br />
+📍 When you have a check, your doctor will talk to you about your medical history, your family’s history of disease and your lifestyle. Your diet, weight, how much you exercise, and whether or not you smoke and drink alcohol or take illegal drugs will also be discussed.<br />
+📍 If you have high-risk factors, such as a family history of a condition, it may be more likely that you will develop a particular disease. Regular checks may help your doctor pick up early warning signs.<br />
 
 ## OUR GOAL
-✨ Cost Reduction: IoT enables patient monitoring in real time, thus significantly cutting down unnecessary visits to doctors, hospital stays and re-admissions
-✨ Improved Treatment: It enables physicians to make evidencebased informed decisions and brings absolute transparency
-✨ Faster Disease Diagnosis: Continuous patient monitoring and real time data helps in diagnosing diseases at an early stage or even before the disease develops based on symptoms
-✨ Proactive Treatment: Continuous health monitoring opens the doors for providing proactive medical treatment
-✨ Drugs and Equipment Management: Management of drugs and medical equipment is a major challenge in a healthcare industry. Through connected devices, these are managed and utilized efficiently with reduced costs
-✨ Error Reduction: Data generated through IoT devices not only help in effective decision making but also ensure smooth healthcare operations with reduced errors, waste and system costs.
+✨ Cost Reduction: IoT enables patient monitoring in real time, thus significantly cutting down unnecessary visits to doctors, hospital stays and re-admissions<br />
+✨ Improved Treatment: It enables physicians to make evidencebased informed decisions and brings absolute transparency<br />
+✨ Faster Disease Diagnosis: Continuous patient monitoring and real time data helps in diagnosing diseases at an early stage or even before the disease develops based on symptoms<br />
+✨ Proactive Treatment: Continuous health monitoring opens the doors for providing proactive medical treatment<br /><br />
+✨ Drugs and Equipment Management: Management of drugs and medical equipment is a major challenge in a healthcare industry. Through connected devices, these are managed and utilized efficiently with reduced costs<br />
+✨ Error Reduction: Data generated through IoT devices not only help in effective decision making but also ensure smooth healthcare operations with reduced errors, waste and system costs.<br />
 
 ## OUR SOLUTION
 We are introducing an IOS based application which is JeevanRekha.
@@ -282,21 +282,21 @@ that will collect every information regarding the patient.
 
 ## Business Model
 
-What product/service do we provide?
+What product/service do we provide?<br />
 Primarily, our product provides support to measurements of a person’s drip level,
 bp, oxygen level and provide the user with an accurate ECG graph.
 This product is linked with our app allowing one to monitor the details generated
 through his/her phone. This will also allow the doctor in charge of multiple patients
 to monitor the readings simultaneously and alert the user in case the reading goes
-beyond the boundaries considered healthy.
-Whom do we intend to market that product or service?
-• We are intent to market our product to hospitals so that they can save time on
+beyond the boundaries considered healthy.<br />
+Whom do we intend to market that product or service?<br />
+☁️ We are intent to market our product to hospitals so that they can save time on
 monitoring patients. The number of patients for whom each doctor/nurse is
 responsible will also be increased.
-• We also intend to market it to those who have someone ill enough that they
+☁️ We also intend to market it to those who have someone ill enough that they
 need to be under observation constantly like a family member or a caretaker so
-that they can be informed when the vitals are going out of the green zone
-How do we intend to market it?
+that they can be informed when the vitals are going out of the green zone<br />
+How do we intend to market it?<br />
 We plan to market it as software responsible for bringing all the data regarding a
 person under one device. This software will also allow users to monitor multiple
 subjects at the same time why notifying the user in case the subject’s vitals are not
