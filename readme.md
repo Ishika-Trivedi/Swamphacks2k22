@@ -132,3 +132,27 @@ the application and will be
 used and stored to generate
 reports.
 
+## THE DRIP MONITORING SYSTEM
+
+This system elaborates a way to efficiently monitor the drip
+level at hospitals, while also detecting any bubble formation
+in the liquid used; a process that is currently done manually
+by nurses when they periodically check the drip.
+
+Hardware Requirements and Arrangement:
+
+1.Arduino Uno
+2. HCSR-04 Ultrasonic sensor
+3. Photo-resistor/light sensor
+4. Light source
+5. Esp8266-01 Wifi module
+
+The Arduino Uno is connected to the ESP8266 module, and
+two sensors(HCSR04 and the LDR). The Ultrasonic sensor has
+been attached to the bottom of an inverted plastic bottle,
+which is acting as a drip for demonstration purposes. The
+LDR has been tucked away inside the bottlecap. The sensor
+data is fetched and calculated using the Arduino Uno. The
+calculated sensor values are conveyed to the Thingspeak
+website via the ESP8266 module.
+
