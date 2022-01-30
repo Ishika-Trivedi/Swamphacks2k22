@@ -34,4 +34,74 @@ disease in case of “sudden” appearance of the disease.
 • It can also psychologically effect patient as he might be
 scared that a disease would pop up if he goes for a
 checkup.
-PROBLEM STA
+
+##PROBLEM STATEMENT 
+Today's era of healthcare system has a very big ILL impact
+due to poor health monitoring of patients due to various
+circumstances.
+• Diseases that can be noticed easily , pass unnoticed, which
+in turn contribute to a bigger health hazard.
+• In various conditions it is impossible to have manual check
+in regular time interval if the patient’s condition is
+becoming worse in between then it creates a emergency
+situation.
+• Risk assessment for any disease/ medical condition can be
+estimated and changes in regular lifestyle can be made
+accordingly
+• Poor health monitoring can cause a case of denial for the
+disease in case of “sudden” appearance of the disease.
+• It can also psychologically effect patient as he might be
+scared that a disease would pop up if he goes for a
+checkup.
+• Regular health checks can identify any early signs of health
+issues.
+• prompt you to maintain a healthy lifestyle
+• When you have a check, your doctor will talk to you about
+your medical history, your family’s history of disease and your
+lifestyle. Your diet, weight, how much you exercise, and
+whether or not you smoke and drink alcohol or take illegal
+drugs will also be discussed.
+• If you have high-risk factors, such as a family history of a
+condition, it may be more likely that you will develop a
+particular disease. Regular checks may help your doctor pick
+up early warning signs.
+
+## OUR GOAL
+• Cost Reduction: IoT enables patient monitoring in real time,
+thus significantly cutting down unnecessary visits to doctors,
+hospital stays and re-admissions
+• Improved Treatment: It enables physicians to make evidencebased informed decisions and brings absolute transparency
+• Faster Disease Diagnosis: Continuous patient monitoring and
+real time data helps in diagnosing diseases at an early stage or
+even before the disease develops based on symptoms
+• Proactive Treatment: Continuous health monitoring opens the
+doors for providing proactive medical treatment
+• Drugs and Equipment Management: Management of drugs
+and medical equipment is a major challenge in a healthcare
+industry. Through connected devices, these are managed and
+utilized efficiently with reduced costs
+• Error Reduction: Data generated through IoT devices not only
+help in effective decision making but also ensure smooth
+healthcare operations with reduced errors, waste and system
+costs 
+
+## OUR SOLUTION
+ We are introducing an IOS based application which is
+JeevanRekha.
+• JevanRekha will allow any medical staff, doctor to view
+their patient’s information and current health status and
+reports.
+• Family members of the patient also can view various
+useful data .
+• Doctors and staffs will get a notification when the reports
+will show any critical situation which will helps to save
+the lives of different patient in emergency situation.
+• We are collecting data of
+• Drip level
+• Oxygen saturation level
+• Pulse rate
+• Electrocardiogram data (optional)
+We will implement our idea by sending sensor's and
+device data to clouds and fetch those data to our
+application and use those data to show and record it for
+future purpose.
