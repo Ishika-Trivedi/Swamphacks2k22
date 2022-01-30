@@ -477,3 +477,30 @@ to our Mobile application.
 The mobile application is developed using swift and it’s an IOS based app
 that will collect every information regarding the patient.
 
+## Business Model
+
+What product/service do we provide?
+Primarily, our product provides support to measurements of a person’s drip level,
+bp, oxygen level and provide the user with an accurate ECG graph.
+This product is linked with our app allowing one to monitor the details generated
+through his/her phone. This will also allow the doctor in charge of multiple patients
+to monitor the readings simultaneously and alert the user in case the reading goes
+beyond the boundaries considered healthy.
+Whom do we intend to market that product or service?
+• We are intent to market our product to hospitals so that they can save time on
+monitoring patients. The number of patients for whom each doctor/nurse is
+responsible will also be increased.
+• We also intend to market it to those who have someone ill enough that they
+need to be under observation constantly like a family member or a caretaker so
+that they can be informed when the vitals are going out of the green zone
+How do we intend to market it?
+We plan to market it as software responsible for bringing all the data regarding a
+person under one device. This software will also allow users to monitor multiple
+subjects at the same time why notifying the user in case the subject’s vitals are not
+in green.
+What kind of expenses it will face?
+• The primary cost for each unit:
+1. Cost of connection: number of connections * 6,000 /-
+2. Charge for the database: 50,000/- per month
+3. Cost of software system: 5,00,000 /-
+
