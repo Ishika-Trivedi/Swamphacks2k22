@@ -106,7 +106,8 @@ device data to clouds and fetch those data to our
 application and use those data to show and record it for
 future purpose.
 
-##PROJECT DESCRIPTION
+## PROJECT DESCRIPTION
+
 This project greatly increases the efficiency of the hospital
 staff as a whole. The pandemic has led to a lot of hospitals
 being completely occupied, and the hospital staff
@@ -117,8 +118,10 @@ the workload of the hospital staff is exceedingly diminished.
 Automation in such essential tasks is the next step towards
 providing more efficient and convenient healthcare.
 
-Block diagram:
+## Block diagram:
+
 <img width="314" alt="image" src="https://user-images.githubusercontent.com/76068886/151692703-8d640982-e6a4-43d5-a70e-e7f82df08031.png">
+
 The device and sensor’s
 data will be transferred to to
 arduino and arduino in turn
