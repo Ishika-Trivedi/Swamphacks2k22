@@ -187,6 +187,49 @@ application will be also available in other operating
 systems . it will allows to create account and do log in for
 different type of users.
 
+<img width="183" alt="image" src="https://user-images.githubusercontent.com/76068886/151693399-be3c3631-b34b-4641-bde2-793683dd2c26.png">
+
+While creating an account it will ask for
+the profile type of the user , if the user is
+a doctor and a staff he or she will be
+verified and validated then the person
+will be a registered user and can log in
+and run the application.
+
+<img width="223" alt="image" src="https://user-images.githubusercontent.com/76068886/151693412-881bb518-8ca1-47db-8015-5429a1bc462f.png">
+
+Under the Patient details where we can
+find search bar where we can search by
+patient name and patient id The
+indicator shows the status of the patient.
+•Red indicates patient's report shows its
+emergency and need doctor
+immediately.
+•Orange indicates intermediate stage
+needs staff monitoring.
+•Green indicates Patient's reports are
+safe.
+
+<img width="204" alt="image" src="https://user-images.githubusercontent.com/76068886/151693426-6a9a2494-357a-46c4-972d-e5af5be6a296.png">
+
+By clicking any profile in the patient
+detail page user will be directed to this
+patient information page
+After opening brief details of each
+patient user can view various health
+status of the patient and also by clicking
+on patient profile you check the patient
+profile which will contain previous
+records.
+
+The proposed solution is going to help the hospital staff in a
+very fruitful manner through which they need not visit the
+patient's room repeatedly just for checking the usefull
+infromation and also notify to doctors and staffs in emergency
+situation directly. We have successfully solved this problem
+in a virtual format using IoT
+
+
 
 
 
