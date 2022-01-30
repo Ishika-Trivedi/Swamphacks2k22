@@ -229,7 +229,79 @@ infromation and also notify to doctors and staffs in emergency
 situation directly. We have successfully solved this problem
 in a virtual format using IoT
 
+## OXYGEN LEVEL MONITORING SYSTEM
+
+Why do we need to check a patient's oxygen level?
+Pulse oximetry is a test used to measure the oxygen level (oxygen
+saturation) of the blood. It is an easy, painless measure of how well
+oxygen is being sent to parts of your body furthest from your heart, such
+as the arms and legs.
+During or after surgery or procedures that use sedation
+o To see how well lung medicines are working
+o To check a person’s ability to handle increased activity levels
+o To see if a ventilator is needed to help with breathing, or to see how
+well it’s working
+o To check a person has moments when breathing stops during sleep
+(sleep apnea)
+
+How do we check manually?
+A clip-like device called a probe is placed on a body part, such as a
+finger or ear lobe. The probe uses light to measure how much oxygen is
+in the blood. The probe may be left on for ongoing monitoring. Or it
+may be used to take a single reading. The probe will be removed after
+the test.
+
+Advantages
+
+o monitoring oxygen saturation over time
+o alerting to dangerously low oxygen levels, particularly in new-borns.
+o offering peace of mind to people with chronic respiratory or
+cardiovascular conditions
+o assessing the need for supplemental oxygen
+o monitoring oxygen saturation levels in people under anaesthesia.
+o indicating dangerous side effects in people taking drugs that affect
+breathing or oxygen saturation.
+
+Implementation:
+
+MAX30100 is an integrated pulse
+oximeter and heart-rate monitor
+sensor solution. It’s an optical sensor
+that derives its readings from emitting
+two wavelengths of light from two
+LEDs – a red and an infrared one
+
+<img width="304" alt="image" src="https://user-images.githubusercontent.com/76068886/151693541-522206b9-7add-45cb-aa22-8cdad11506a4.png">
 
 
+– then measuring the absorbance of pulsing blood through a
+photodetector. This particular LED colour combination is optimized for
+reading the data through the tip of one’s finger. It is fully configurable
+through software registers and the digital output data is stored in a 16-deep
+FIFO within the device. It has an I2C digital interface to communicate with
+a host microcontroller. This sensor will be connected to Arduino and the
+data received from the sensor will be received in the Arduino.
+
+## BLOOD PRESSURE AND PULSE RATE MONITORING SYSTEM
+
+Why should we need to check a patient's blood pressure?
+Measuring our blood pressure regularly will help our health care team to
+diagnose any health problems in the early stage. Then we can take steps
+to control your blood pressure if it is too high or too low. Measuring our
+blood pressure is the only way to know whether we have high blood
+pressure or low blood pressure.
+If we are diagnosed with high blood pressure, we can comply with
+medications to treat it. Untreated high blood pressure leads to stroke,
+heart attack, kidney failure and heart failure. We should get our blood
+pressure checked regularly because high blood pressure is a silent killer.
+There are often no symptoms of this potentially deadly condition.
+
+Advantage
+
+Blood pressure monitoring is an important way of diagnosing
+hypertension and your cardiovascular health. Doing it allows doctors to
+carry out additional checks that are useful in evaluating the progress of
+the blood pressure, using diagnostic plans laid down by the European
+Society of Hypertension.
 
 
