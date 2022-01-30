@@ -304,4 +304,79 @@ carry out additional checks that are useful in evaluating the progress of
 the blood pressure, using diagnostic plans laid down by the European
 Society of Hypertension.
 
+Implementation:
+
+Pulse Sensor is a low cost, very small size a plug-and-play heart rate sensor
+for Arduino and Arduino compatible boards. It is an optical heart rate
+sensor measures pulse waves, which are changes in the volume of a blood
+vessel that occur when the heart pumps blood. Pulse waves are detected
+by measuring the change in volume using an optical sensor and green
+LED.
+
+<img width="189" alt="image" src="https://user-images.githubusercontent.com/76068886/151693982-a76ec0b1-0dff-41dc-97c7-d82a8a1b33bd.png">
+
+
+Pulse sensors using the photoelectric pulse wave
+method are classified into 2 types depending on
+the measurement method: transmission and
+reflection. Transmission types measure pulse
+waves by emitting red or infrared light from the
+body surface and detecting the change in blood
+flow during heart beats as a change in the amount
+of light transmitted through the body. This method
+is limited to areas where light can easily penetrate, such as the fingertip or
+earlobe.
+Reflection-type pulse sensors (Optical Sensors for Heart Rate Monitor) emit
+infrared, red, or green light (~550nm) towards the body and measure the
+amount of light reflected using a photodiode or phototransistor.
+Oxygenated haemoglobin present in the blood of the arteries has the
+characteristic of absorbing incident light, so by sensing the blood flow rate
+(change in blood vessel volume) that changes following heart contractions
+over time we are able to measure the pulse wave signal.
+
+## CARDIAC MONITORING SYSTEM:
+
+Why should we need to check a patient's Cardiogram data?
+An electrocardiogram(ECG) is a simple test that can be used to
+check the heart’s rhythm and electrical activity.
+It can be used to investigate symptoms of a possible heart problem
+such as chest pain, palpitations, dizziness, and shortness of breath.
+An ECG can help you detect:
+o Arrhythmias- where the heart beats too slowly, too quickly, or
+too irregularly.
+o Coronary heart disease- where the heart’s blood supply is
+blocked or interrupted by a build-up of fatty substances.
+o Heart attacks-where the supply of the blood to the heart is
+suddenly blocked.
+o Cardiomyopathy-where the heart wall become thickened or
+enlarged.
+All of the diseases are either fatal on their own or can lead some
+chronic problem.
+
+Implementation
+
+<img width="304" alt="image" src="https://user-images.githubusercontent.com/76068886/151694055-ebf74048-74d1-473d-aee2-6d0fcb77ec6b.png">
+
+
+An ECG can be implemented
+through AD8232 ECG
+Monitor Sensor Module(
+shown in the picture above)
+This is a cost-effective ECG
+sensor used to measure the
+electrical activity of the heart.
+This electrical activity can be
+charted as an ECG or
+electrocardiogram and output
+as an analog reading.
+The AD8232 module breaks out nine connections from the IC that
+you can solder pins, wires, or other connectors to. SDN, LO+, LO-,
+OUTPUT, 3.3V, GND provide essential pins for operating this
+monitor with an Arduino or other development board. Also provided
+on this board are RA (Right Arm), LA (Left Arm), and RL (Right Leg)
+pins to attach and use your own custom sensors. Additionally, there
+is an LED indicator light that will pulsate to the rhythm of a heartbeat.
+This sensor will be connected to the Arduino and all the data will be
+fetched into it and all the data sent to cloud and it is converted to
+proper graphical format.
 
