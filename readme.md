@@ -140,13 +140,13 @@ Oxygenated haemoglobin present in the blood of the arteries has the characterist
 ## CARDIAC MONITORING SYSTEM:
 
 Why should we need to check a patient's Cardiogram data?<br />
-An electrocardiogram(ECG) is a simple test that can be used to check the heart’s rhythm and electrical activity. It can be used to investigate symptoms of a possible heart problem such as chest pain, palpitations, dizziness, and shortness of breath.
-An ECG can help you detect:
-💡 Arrhythmias- where the heart beats too slowly, too quickly, or too irregularly.
-💡 Coronary heart disease- where the heart’s blood supply is blocked or interrupted by a build-up of fatty substances.
-💡 Heart attacks-where the supply of the blood to the heart is suddenly blocked.
-💡 Cardiomyopathy-where the heart wall become thickened or enlarged.
-All of the diseases are either fatal on their own or can lead some chronic problem.
+An electrocardiogram(ECG) is a simple test that can be used to check the heart’s rhythm and electrical activity. It can be used to investigate symptoms of a possible heart problem such as chest pain, palpitations, dizziness, and shortness of breath.<br />
+An ECG can help you detect:<br />
+💡 Arrhythmias- where the heart beats too slowly, too quickly, or too irregularly.<br />
+💡 Coronary heart disease- where the heart’s blood supply is blocked or interrupted by a build-up of fatty substances.<br />
+💡 Heart attacks-where the supply of the blood to the heart is suddenly blocked.<br />
+💡 Cardiomyopathy-where the heart wall become thickened or enlarged.<br />
+All of the diseases are either fatal on their own or can lead some chronic problem.<br />
 
 Implementation:-
 
@@ -228,7 +228,7 @@ beyond the boundaries considered healthy.<br />
 Whom do we intend to market that product or service?<br />
 ☁️ We are intent to market our product to hospitals so that they can save time on
 monitoring patients. The number of patients for whom each doctor/nurse is
-responsible will also be increased.
+responsible will also be increased.<br />
 ☁️ We also intend to market it to those who have someone ill enough that they
 need to be under observation constantly like a family member or a caretaker so
 that they can be informed when the vitals are going out of the green zone<br />
