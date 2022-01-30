@@ -187,8 +187,6 @@ application will be also available in other operating
 systems . it will allows to create account and do log in for
 different type of users.
 
-<img width="183" alt="image" src="https://user-images.githubusercontent.com/76068886/151693399-be3c3631-b34b-4641-bde2-793683dd2c26.png">
-
 While creating an account it will ask for
 the profile type of the user , if the user is
 a doctor and a staff he or she will be
