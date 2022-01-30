@@ -496,9 +496,4 @@ We plan to market it as software responsible for bringing all the data regarding
 person under one device. This software will also allow users to monitor multiple
 subjects at the same time why notifying the user in case the subject’s vitals are not
 in green.
-What kind of expenses it will face?
-• The primary cost for each unit:
-1. Cost of connection: number of connections * 6,000 /-
-2. Charge for the database: 50,000/- per month
-3. Cost of software system: 5,00,000 /-
 
