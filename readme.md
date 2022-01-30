@@ -380,3 +380,100 @@ This sensor will be connected to the Arduino and all the data will be
 fetched into it and all the data sent to cloud and it is converted to
 proper graphical format.
 
+## TEMPRATURE MONITORING SYSTEM
+
+A temperature monitoring system has become an essential part of
+healthcare, hospitals, clinics, food business, and other industries in
+recent years.
+Measuring body temperature is very important in medicine. A number
+of diseases are characterised by a change in body temperature. With
+other illnesses, the course of the disease can be followed by
+measuring body temperature. This allows the doctor to analyse the
+effectiveness of treatments based on body temperatures.
+A fever is the reaction to a disease-specific stimuli. The body changes
+its normal temperature to support the body’s own defence
+mechanisms. Fever is the most common form of disease-related
+(pathological) increase in body temperature.
+By understanding your own individual body temperature, noticing
+changes that might indicate an infection, and taking immediate
+measures to prevent spreading it to others, you can help family,
+friends, and co-workers stay safe, healthy, and productive.
+
+Implementation:
+
+The MLX90614 ESF is an Infra-Red thermometer for non-contact
+temperature measurements. Both the IR sensitive thermopile detector
+chip and the signal conditioning ASIC are integrated into the same TO39 can. The Integrated MLX90614 GY-906 is a low noise amplifier, 17-
+bit ADC, and powerful DSP unit thus achieving high accuracy and
+resolution of the thermometer.
+The user can configure the digital output to be PWM. As a standard, the
+10-bit PWM is configured to continuously transmit the measured
+temperature in the range of -20 to 120 C, with an output resolution of
+0.14 C.
+This sensor will be connected to the Arduino and all the data will be
+fetched into it and all the data sent to cloud
+
+<img width="328" alt="image" src="https://user-images.githubusercontent.com/76068886/151694477-5ecdcca8-ee01-424d-89b4-3e1b67e9d97e.png">
+
+## ARDUINO UNO 
+
+<img width="301" alt="image" src="https://user-images.githubusercontent.com/76068886/151694520-53ba4790-63a3-4854-89ba-53633e4debc9.png">
+
+Arduino Uno is a microcontroller
+board based on the ATmega328P
+(datasheet). It has 14 digital
+input/output pins (of which 6 can
+be used as PWM outputs), 6 analog
+inputs, a 16 MHz ceramic
+resonator (CSTCE16M0V53-R0), a
+USB connection, a power jack, an
+ICSP header, and a reset button. It
+contains everything needed to
+support the microcontroller; simply connect it to a computer with a USB
+cable or power it with an AC-to-DC adapter or battery to get started. You
+can tinker with your Uno without worrying too much about doing
+something wrong, in the worst-case scenario you can replace the chip
+for a few dollars and start over again.
+
+## Esp8266 NodeMcu
+
+<img width="310" alt="image" src="https://user-images.githubusercontent.com/76068886/151694537-fe928001-e6d6-4c1e-95a8-30ac2efd080c.png">
+
+The ESP8266 WIFI Module is a self-contained SOC with an integrated
+TCP/IP protocol stack that can give any microcontroller access to your
+WIFI network. The ESP8266 is capable of either hosting an application
+or offloading all WIFI networking functions from another application
+processor. Each ESP8266 module comes pre-programmed with an AT
+command set firmware, meaning,
+you can simply hook this up to your
+Arduino device and get about as
+much WIFI-ability as a WIFI Shield
+offers (and that's just out of the box)!
+The ESP8266 module is an
+extremely cost-effective board with
+a huge, and ever-growing,
+community.
+This module has a powerful enough onboard processing and storage
+capability that allows it to be integrated with the sensors and other
+application-specific devices through its GPIOs with minimal
+development up-front and minimal loading during runtime. Its high
+degree of on-chip integration allows for minimal external circuitry,
+including the front-end module, which is designed to occupy a minimal
+PCB area. The ESP8266 supports APSD for VoIP applications and
+Bluetooth co-existence interfaces, it contains a self-calibrated RF
+allowing it to work under all operating conditions and requires no
+external RF parts.
+
+How do the Sensors Works with Arduino and Nodemcu?
+To each and every sensor, a supply of +5v/3.3v and Gnd is provided by
+the Arduino, and the digital data incoming pins of all the sensors are
+connected to digital input pins of Arduino which in turn Arduino sends all
+the incoming data received by sensors to the node MCU which is
+connected to Rx and Tx pins of the Arduino (Here Rx is Data Receiving
+pin and Tx is Data Transmitting Pin) so the data received by Arduino is
+sent to the Node MCU which is connected to the internet which in turn
+sends the data to the Google firebase from where we can fetch all the data
+to our Mobile application.
+The mobile application is developed using swift and it’s an IOS based app
+that will collect every information regarding the patient.
+
