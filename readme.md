@@ -1,4 +1,5 @@
 # IOT tool to monitor patients health remotely 
+
 ## ABSTRACT
 Today's era of the healthcare system has a very big ILL impact due to poor health monitoring of patients due to various circumstances.Regular health checks can identify any early signs of health issues and prompt us to maintain a healthy lifestyle. Our goal is to provide the users with an improved form of healthcare facilities at a reasonable cost that has faster disease diagnosis, proactive treatment and error reduction. Keeping all that in mind we introduce you to the iOS-based app, Jeevan-Rekha. Jeevan Rekha will allow any medical staff, doctor to view their patient’s information and current health status and reports. Family members of the patient also can view various useful data. Doctors and staff will get a notification when the reports will show any critical situation which will help to save the lives of different patients in an emergency situation. It also helps in the collection of data on a patients’ drip level, oxygen saturation level, pulse rate, etc. The idea is implemented by sending sensor's and device data to clouds and fetching those data to our application and using those data to show and record it for future purposes.<br />
 This project is designed to greatly increase the efficiency of the hospital staff as a whole. By not having to conduct manual routine checks on the drip levels, drip conditions, Temperature, heartbeat, oxygen rate and Blood pressure of every patient, the workload of the hospital staff is exceedingly diminished. Thus, automation is an essential step towards providing more efficient, effective and convenient healthcare facilities to all.
@@ -34,6 +35,8 @@ We are introducing an IOS based application which is JeevanRekha.<br />
 • Pulse rate<br />
 • Electrocardiogram data (optional)<br />
 We will implement our idea by sending sensor's and device data to clouds and fetch those data to our application and use those data to show and record it for future purpose.
+
+![SwampHacck2k22](https://user-images.githubusercontent.com/73357138/151698131-529ee26f-071d-4bb5-af12-5e372c78ba8a.gif)
 
 ## PROJECT DESCRIPTION
 
@@ -191,7 +194,7 @@ offers (and that's just out of the box)!
 The ESP8266 module is an
 extremely cost-effective board with
 a huge, and ever-growing,
-community.
+community.<br />
 This module has a powerful enough onboard processing and storage
 capability that allows it to be integrated with the sensors and other
 application-specific devices through its GPIOs with minimal
@@ -203,7 +206,7 @@ Bluetooth co-existence interfaces, it contains a self-calibrated RF
 allowing it to work under all operating conditions and requires no
 external RF parts.
 
-How do the Sensors Works with Arduino and Nodemcu?
+How do the Sensors Works with Arduino and Nodemcu?<br />
 To each and every sensor, a supply of +5v/3.3v and Gnd is provided by
 the Arduino, and the digital data incoming pins of all the sensors are
 connected to digital input pins of Arduino which in turn Arduino sends all
