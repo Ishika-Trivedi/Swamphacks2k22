@@ -156,3 +156,37 @@ data is fetched and calculated using the Arduino Uno. The
 calculated sensor values are conveyed to the Thingspeak
 website via the ESP8266 module.
 
+
+## Working : 
+
+<img width="527" alt="image" src="https://user-images.githubusercontent.com/76068886/151693201-cdfff42a-6e50-447d-a687-4e2c669946ee.png">
+
+The block diagram above represents the correct working of
+the model in that first it will measure the level of solution left
+in the bottle through the ultrasonic sensor and if there are any
+bubbles formed in that solution and due to which there is an
+obstacle in the path of flowing the solution through a drip that
+will be detected by the LDR(light dependent resistor). The
+data produced by the ultrasonic and LDR will be sent to the
+firebase through that again it will be sent to the Mobile APP
+and according to the data received by app, there will certain
+warnings that whether the solution is about to finish or if there
+are any bubbles formed in that solution or not.
+
+## Implementation : 
+
+<img width="513" alt="image" src="https://user-images.githubusercontent.com/76068886/151693216-fe378aef-9179-4b20-8160-3c1fa7e1067a.png">
+
+## JEEVANREKHA APPLICATION:
+
+<img width="657" alt="image" src="https://user-images.githubusercontent.com/76068886/151693251-86ce11a4-b6a0-4a49-974d-2ab088404c23.png">
+
+JeevanRekha application will be an IOS application
+having all the features as described and in future this
+application will be also available in other operating
+systems . it will allows to create account and do log in for
+different type of users.
+
+
+
+
